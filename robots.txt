@@ -1,0 +1,5 @@
+# Login and signup pages are marked noindex in their HTML, so they are not blocked here.
+User-agent: *
+Allow: /
+
+# After publishing, run "node set-site-url.js https://your-real-site/" to add the Sitemap line.
